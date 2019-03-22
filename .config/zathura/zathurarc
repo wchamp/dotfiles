@@ -1,0 +1,4 @@
+map <C-h> toggle_statusbar
+
+set recolor-darkcolor \#fafafa
+set recolor-lightcolor \#161616
