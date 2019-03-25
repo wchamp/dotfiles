@@ -14,3 +14,6 @@ alias dots='/usr/bin/git --git-dir=$HOME/.dots/ --work-tree=$HOME'
 ==== BACKUP AND REMOVE LOCAL COPIES HERE ====
 dots checkout
 dots config --local status.showUntrackedFiles no
+
+to checkout a single file, clone the bare repo and run the command:
+dots checkout master -- "path/to/file.name"
