@@ -1,15 +1,17 @@
-Xft*dpi:    96
+Xft*dpi: 96
 Xft*antialias: true
-Xft*hinting:   true
+Xft*hinting: true
 Xft*hintstyle: hintfull
-Xft*rgba:      rgb
-
-URxvt*font: xft:xos4 Terminus:size=9
+Xft*rgba: rgb
 
 URxvt.scrollBar: false
 URxvt.saveLines: 3000
 URxvt.termName: rxvt
 URxvt.internalBorder: 2
+
+URxvt.allow_bold: true
+URxvt*font: xft:Inconsolata for Powerline:size=14
+URxvt*boldFont: xft:Inconsolata for Powerline:bold:size=14
 
 URxvt.background: #1A1A1A
 URxvt.foreground: #A0A0A0

@@ -6,10 +6,10 @@ set cursorline
 set cursorcolumn
 set colorcolumn=80
  
-highlight LineNr ctermfg=darkgrey
-highlight colorcolumn ctermbg=236
-highlight cursorline cterm=NONE ctermbg=236
-highlight cursorcolumn ctermbg=236
+highlight LineNr ctermfg=15
+highlight colorcolumn ctermbg=0
+highlight cursorline cterm=NONE ctermbg=0
+highlight cursorcolumn ctermbg=0
 
 set hidden
 set history=100
